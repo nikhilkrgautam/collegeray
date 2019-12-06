@@ -30,7 +30,7 @@
                           <div class="col-lg-4 col-md-4 col-12">
                                 <div class="card">
                                         <img class="card-img-top" src="assets/Exam2.jpg" alt="exam">
-                                        <div class="card-body">
+                                         <div class="card-body">
                                            <h4 class="card-title">JEE ADVANCED</h4>
                                            <p class="card-text">Bahut hard</p>
                                            <a href="jee-advanced.php" class="btn btn-primary stretched-link">CLICK ME</a>
