@@ -18,7 +18,7 @@
 
           <!--Engineering section-->
           <section>
-          <div class="container">
+           <div class="container">
                 <h1 class="text-center text-capitalize pt-5">
                     ENGINEERING
                 </h1>
